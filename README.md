@@ -1,2 +1,0 @@
-# MIBSys
- mib adsys
